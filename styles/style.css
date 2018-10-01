@@ -1,0 +1,23 @@
+
+.container {
+	width: 100%;
+	height: 90vh;
+	display: flex;
+	align-items: center;
+}
+
+.btnEnter {
+	width: 100%;
+}
+
+.btnSocial {
+	
+	width: 49%;
+	border-radius: 50px;
+}
+
+.img-profile {
+	width: 36px; 
+	height: 36px;
+	border-radius: 18px;
+}
